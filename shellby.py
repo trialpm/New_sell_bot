@@ -19,7 +19,7 @@ sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 # Bot Configuration
 BOT_TOKEN = "8053858576:AAGnZh5JxUiILEHu5VnFP0mW8ba1ZInNQRg"
 ADMIN_ID = 1612918900
-CHANNEL_ID = -1003903319155
+CHANNEL_ID = -1004358073615
 
 # Store user Firebase configurations
 user_firebase_config = None
