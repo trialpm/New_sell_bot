@@ -17,7 +17,7 @@ import io
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
 # Bot Configuration
-BOT_TOKEN = "8053858576:AAGnZh5JxUiILEHu5VnFP0mW8ba1ZInNQRg"
+BOT_TOKEN = "8622329624:AAEtdF2T5j787H9UfBOHEMoqFWqw9wfHup8"
 ADMIN_ID = 1612918900
 CHANNEL_ID = -1004358073615
 
